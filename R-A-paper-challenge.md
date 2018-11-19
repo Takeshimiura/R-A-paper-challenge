@@ -1,6 +1,9 @@
 # survey_database
 要旨とキーワードを書いてください。  
 キーワードごとに後でソートします。
+これは同じ研究分野の人、そうでない人により多くの最新知識を得てもらうために作りました。
+ぜひご協力ください
+
 # ICRA2018まとめ
 
 [Temporal Spatial Inverse Semantics for Robots Communicating with Humans][](asada)  
